@@ -1,3 +1,7 @@
+<div align="center" style="margin: 20px">
+  <img src="https://github.com/CONTRADIS/contradis.github.io/raw/master/banner.jpg">
+</div>
+
 **CONTRADIS** is a software package that is built for the purpose of analyzing the experimental readings obtained from various methods that have been used by the previous studies in the field of contaminant transport in soils. There are different methods that use different parameters to study the flow of different ions/ contaminants through a given sample of soil. This package demonstrates two of those methods, namely, Through Diffusion technique and Half-Cell Method.  
 This software is also capable of using the contaminant transport data from experiments and predicting the diffusion and linear sorption parameters of the soils, as used in Fick's second law. The software is verified on the synthetic data obtained from calculated concentration values as an input data.  
 
